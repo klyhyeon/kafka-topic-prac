@@ -1,0 +1,6 @@
+rootProject.name = 'kafka-topic'
+include 'kafka-topic-api'
+include 'kafka-topic-event-core'
+include 'kafka-topic-producer'
+include 'kafka-topic-consumer'
+
